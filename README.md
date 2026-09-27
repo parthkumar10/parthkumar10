@@ -8,6 +8,7 @@ Email Me 👉 ✉️ **studygreet16879@gmail.com** For Collaboration/Project or 
 - 👯 **I’m looking to collaborate on:** Open-Source beginner projects & learning groups
 - 💬 **Ask me about:** C programming basics, 1st semester cirrculum, high level tech trends 
 - ⚡ **Fun fact:** Code is my language and Logic is my superpower##
+  
 
 # 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=parthkumar10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
