@@ -14,7 +14,7 @@ Email Me 👉 ✉️ **studygreet16879@gmail.com** For Collaboration/Project or 
 ![](https://github-profile-trophy.vercel.app/?username=parthkumar10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zeGdaEfUU) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Parth.g4x188) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth.g4x_18) [(https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Parthg4x) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/zeGdaEfUU) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Parth.g4x188) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/parth.g4x_18) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Parthg4x) 
 
 <!-- Snake Game Repo View -->
 
