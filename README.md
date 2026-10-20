@@ -32,9 +32,6 @@ I enjoy logical problem-solving, exploring new tools, and understanding how appl
 ## 💻 Learning Focus
 ![Learning Core Java](https://img.shields.io/badge/Learning-Core%20Java-0284C7?style=for-the-badge&logo=openjdk&logoColor=white)
 
-## ⚡ Parth's Debug Loop
-
-![An illustrated Java debugging loop: find an array boundary error, understand it, fix it and run again.](assets/debug-loop.svg)
 
 ## 📊 GitHub Stats
 *Generated from @parthkumar10's GitHub activity. Cards refresh through third-party services and may be cached.*
