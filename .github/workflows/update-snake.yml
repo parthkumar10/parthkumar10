@@ -1,0 +1,25 @@
+name: Refresh contribution trail
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 2 * * *'
+concurrency:
+  group: contribution-trail
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: node .github/scripts/update-snake.mjs
+      - name: Save updated image
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add assets/contribution-snake.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "Refresh contribution trail"
+            git push
+          fi
