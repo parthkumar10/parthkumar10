@@ -36,11 +36,11 @@ I enjoy logical problem-solving, exploring new tools, and understanding how appl
 
 ## 📊 GitHub Stats
 *These cards are generated from GitHub activity by third-party services and may be cached. Contribution counts, streaks, and stars are calculated from GitHub activity—not manually set here.*
-![Parth's GitHub statistics](https://github-readme-stats.shion.dev/api?username=parthkumar10&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=false)
+![Parth's GitHub statistics](https://github-readme-stats.shion.dev/api?username=parthkumar10&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=false&refresh=202611072001)
 
-![Parth's GitHub contribution streak](https://streak-stats.demolab.com/?user=parthkumar10&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1)
+![Parth's GitHub contribution streak](https://streak-stats.demolab.com/?user=parthkumar10&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&refresh=202611072001)
 
-![Languages used in Parth's public repositories](https://github-readme-stats.shion.dev/api/top-langs/?username=parthkumar10&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=false&layout=compact)
+![Languages used in Parth's public repositories](https://github-readme-stats.shion.dev/api/top-langs/?username=parthkumar10&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=false&layout=compact&refresh=202611072001)
 
 *Language statistics reflect repository code, including AI-assisted experiments, rather than proficiency.*
 
