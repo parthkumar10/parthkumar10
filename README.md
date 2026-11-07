@@ -1,20 +1,32 @@
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![Parth Kumar — Computer Science undergraduate learning Java and exploring backend development](assets/banner.svg)
+![Parth Kumar — Computer Science student building practical software and exploring backend development](assets/banner.svg)
 
-![Learning Java. Solving problems. Exploring backend development.](assets/typing.svg)
+![Building practical software. Solving problems. Exploring backend development.](assets/typing.svg)
 
 # 💫 Hi 👋, I'm Parth Kumar
-**A B.Tech Computer Science student from India exploring Software Engineering & Backend Development**
+**A B.Tech Computer Science student from India building practical software and exploring backend development.**
 
-I enjoy logical problem-solving, exploring new tools, and understanding how applications work behind the scenes. I'm building my foundations in Java and developing the skills to turn ideas into useful software.
+I enjoy logical problem-solving, exploring new tools, and understanding how applications work behind the scenes. I’m building my foundations in Java while turning ideas into useful, end-to-end software.
 
 - 🌱 **I’m currently learning:** Core Java and programming fundamentals
 - 🧩 **My next learning goal:** Data Structures & Algorithms
-- 🔍 **I’m interested in:** Backend development, APIs, and practical software development
+- 🔍 **I’m interested in:** Backend development, APIs, and building thoughtful products
 - 👯 **I’d like to connect with:** Fellow students, college seniors, and engineers to exchange ideas and learn together
 - ⚡ **How I learn:** Experimenting with tools, trying out ideas, and exploring the concepts behind them
+
+## 🚀 Featured Project
+
+### [Grantly — Rethinking the Scholarship Experience](https://grantly-99fg.onrender.com)
+
+Students can face a maze of scholarship listings, eligibility rules, application steps, and deadlines. **Grantly brings that journey into one student-centered workspace**—with source-linked discovery, explainable profile-based matching, saved opportunities, application tracking, preparation planning, and deadline views.
+
+- 🌐 [Try the live demo](https://grantly-99fg.onrender.com)
+- 💻 [Explore the source code](https://github.com/parthkumar10/grantly)
+- 🧰 **Built with:** React, TypeScript, Vite, Node.js, Express, and optional Supabase/Gemini integrations
+
+*Grantly is an evolving prototype: eligibility guidance is preliminary, and scholarship coverage is not exhaustive.*
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat)](https://www.linkedin.com/in/parth-kumar-b4b68642b)
@@ -34,7 +46,7 @@ I enjoy logical problem-solving, exploring new tools, and understanding how appl
 
 
 ## 📊 GitHub Stats
-*Generated from @parthkumar10's GitHub activity. Cards refresh through third-party services and may be cached.*
+*These cards are generated from GitHub activity by third-party services and may be cached. Contribution counts, streaks, and stars are calculated from GitHub activity—not manually set here.*
 ![Parth's GitHub statistics](https://github-readme-stats.shion.dev/api?username=parthkumar10&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1&include_all_commits=true&count_private=false)
 
 ![Parth's GitHub contribution streak](https://streak-stats.demolab.com/?user=parthkumar10&theme=dark&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1)
