@@ -16,17 +16,6 @@ I enjoy logical problem-solving, exploring new tools, and understanding how appl
 - 👯 **I’d like to connect with:** Fellow students, college seniors, and engineers to exchange ideas and learn together
 - ⚡ **How I learn:** Experimenting with tools, trying out ideas, and exploring the concepts behind them
 
-## 🚀 Featured Project
-
-### [Grantly — Rethinking the Scholarship Experience](https://grantly-99fg.onrender.com)
-
-Students can face a maze of scholarship listings, eligibility rules, application steps, and deadlines. **Grantly brings that journey into one student-centered workspace**—with source-linked discovery, explainable profile-based matching, saved opportunities, application tracking, preparation planning, and deadline views.
-
-- 🌐 [Try the live demo](https://grantly-99fg.onrender.com)
-- 💻 [Explore the source code](https://github.com/parthkumar10/grantly)
-- 🧰 **Built with:** React, TypeScript, Vite, Node.js, Express, and optional Supabase/Gemini integrations
-
-*Grantly is an evolving prototype: eligibility guidance is preliminary, and scholarship coverage is not exhaustive.*
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat)](https://www.linkedin.com/in/parth-kumar-b4b68642b)
